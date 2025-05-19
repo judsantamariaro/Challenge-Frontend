@@ -63,3 +63,5 @@ npm run cypress:run
 - Separación y organización clara de los tests unitarios y E2E.
 - Contemplar y mejorar la accesibilidad en toda la aplicación.
 - Implementar mecanismos de cache para optimizar el rendimiento.
+- Manejo eficiente de imágenes y archivos estáticos.
+- Mejorar la documentación técnica y de usuario.
