@@ -17,10 +17,16 @@ npm install
 
 ## Comandos principales
 
-### Iniciar el servidor de desarrollo
+### Iniciar el frontend
 
 ```sh
 npm run dev
+```
+
+### Iniciar el backend
+
+```sh
+npm run server
 ```
 
 ### Ejecutar tests unitarios
