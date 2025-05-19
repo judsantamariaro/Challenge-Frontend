@@ -1,0 +1,18 @@
+@use "variables" as v;
+@use "./components/searchBox";
+@use "./components/searchResults";
+@use "./components/productDetail";
+@use "./components/breadcrumb";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: v.$font-base;
+    font-size: v.$font-size-base;
+    color: v.$color-text;
+    background-color: v.$color-secondary;
+}

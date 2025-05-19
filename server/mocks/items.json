@@ -1,0 +1,92 @@
+[
+    {
+        "id": "MLA111222",
+        "title": "iPhone 13 128GB",
+        "price": {
+            "currency": "ARS",
+            "amount": 800000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/200/300",
+        "condition": "Nuevo",
+        "free_shipping": true,
+        "sold_quantity": 23,
+        "description": "El nuevo iPhone 13 con increíble rendimiento y cámara.",
+        "category": "Smartphones"
+    },
+    {
+        "id": "MLA333444",
+        "title": "Samsung Galaxy S22",
+        "price": {
+            "currency": "ARS",
+            "amount": 750000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/201/301",
+        "condition": "Usado",
+        "free_shipping": false,
+        "sold_quantity": 15,
+        "description": "Samsung Galaxy S22, potencia y diseño en tus manos.",
+        "category": "Smartphones"
+    },
+    {
+        "id": "MLA555666",
+        "title": "MacBook Air M1 256GB",
+        "price": {
+            "currency": "ARS",
+            "amount": 2200000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/203/303",
+        "condition": "Usado",
+        "free_shipping": true,
+        "sold_quantity": 12,
+        "description": "MacBook Air con chip M1 de Apple, 8 GB de RAM y 256 GB de almacenamiento SSD.",
+        "category": "Laptops"
+    },
+    {
+        "id": "MLA777888",
+        "title": "Xiaomi Redmi Note 12 128GB",
+        "price": {
+            "currency": "ARS",
+            "amount": 350000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/204/304",
+        "condition": "Nuevo",
+        "free_shipping": false,
+        "sold_quantity": 30,
+        "description": "Xiaomi Redmi Note 12 con pantalla AMOLED de 6.67\", cámara cuádruple y batería de 5000 mAh.",
+        "category": "Smartphones"
+    },
+    {
+        "id": "MLA999000",
+        "title": "PlayStation 5 Edición Digital",
+        "price": {
+            "currency": "ARS",
+            "amount": 850000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/205/305",
+        "condition": "Nuevo",
+        "free_shipping": true,
+        "sold_quantity": 8,
+        "description": "Sony PlayStation 5 edición digital, disfruta de gráficos 4K y velocidad ultrarrápida.",
+        "category": "Accesorios"
+    },
+    {
+        "id": "MLA112233",
+        "title": "AirPods Pro (2ª Generación)",
+        "price": {
+            "currency": "ARS",
+            "amount": 180000,
+            "decimals": 0
+        },
+        "picture": "https://picsum.photos/206/306",
+        "condition": "Nuevo",
+        "free_shipping": false,
+        "sold_quantity": 45,
+        "description": "Apple AirPods Pro de segunda generación con cancelación activa de ruido y estuche MagSafe.",
+        "category": "Accesorios"
+    }
+]

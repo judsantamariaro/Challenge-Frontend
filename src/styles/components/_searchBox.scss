@@ -1,0 +1,36 @@
+@use "../variables" as v;
+
+.searchBox {
+    background-color: v.$color-primary;
+    padding: v.$spacing-sm 20dvw;
+    display: flex;
+    justify-content: center;
+
+    &__input {
+        width: 100vw;
+        padding: v.$spacing-sm;
+        border: none;
+        font-size: v.$font-size-lg;
+        color: v.$color-text;
+        background-color: v.$color-secondary;
+
+        &::placeholder {
+            color: v.$color-placeholder;
+            font-size: v.$font-size-base;
+        }
+        &:focus {
+            outline: 3px solid v.$color-border;
+            transition: scale 0.2s;
+        }
+    }
+
+    &__button {
+        width: 4dvw;
+        background-color: v.$color-background;
+        border: none;
+        &:hover {
+            border: 1px solid v.$color-border;
+            transition: scale 0.2s;
+        }
+    }
+}
